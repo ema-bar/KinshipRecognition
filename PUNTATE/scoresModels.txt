@@ -1,0 +1,89 @@
+Modello model1{
+Il modello model1 sull'episodio del 09-04-21 ha predetto 6 coppie su 8.
+Il modello model1 sull'episodio del 11-04-21 ha predetto 6 coppie su 8.
+Il modello model1 sull'episodio del 11-05-21 ha predetto 4 coppie su 8.
+Il modello model1 sull'episodio del 14-04-21 ha predetto 8 coppie su 8.
+Il modello model1 sull'episodio del 14-05-21 ha predetto 5 coppie su 8.
+Il modello model1 sull'episodio del 16-04-21 ha predetto 6 coppie su 8.
+Il modello model1 sull'episodio del 19-04-21 ha predetto 5 coppie su 8.
+Il modello model1 sull'episodio del 20-04-21 ha predetto 6 coppie su 8.
+Il modello model1 sull'episodio del 23-04-21 ha predetto 7 coppie su 8.
+Il modello model1 sull'episodio del 25-04-21 ha predetto 2 coppie su 8.
+Il modello model1 sull'episodio del 28-04-21 ha predetto 7 coppie su 8.
+Il modello model1 sull'episodio del 30-05-21 ha predetto 6 coppie su 8.
+Percentuale sulle 96 coppie totali: 70.83}
+
+Modello model2{
+Il modello model2 sull'episodio del 09-04-21 ha predetto 5 coppie su 8.
+Il modello model2 sull'episodio del 11-04-21 ha predetto 5 coppie su 8.
+Il modello model2 sull'episodio del 11-05-21 ha predetto 5 coppie su 8.
+Il modello model2 sull'episodio del 14-04-21 ha predetto 6 coppie su 8.
+Il modello model2 sull'episodio del 14-05-21 ha predetto 6 coppie su 8.
+Il modello model2 sull'episodio del 16-04-21 ha predetto 5 coppie su 8.
+Il modello model2 sull'episodio del 19-04-21 ha predetto 6 coppie su 8.
+Il modello model2 sull'episodio del 20-04-21 ha predetto 7 coppie su 8.
+Il modello model2 sull'episodio del 23-04-21 ha predetto 7 coppie su 8.
+Il modello model2 sull'episodio del 25-04-21 ha predetto 3 coppie su 8.
+Il modello model2 sull'episodio del 28-04-21 ha predetto 6 coppie su 8.
+Il modello model2 sull'episodio del 30-05-21 ha predetto 6 coppie su 8.
+Percentuale sulle 96 coppie totali: 69.79}
+
+Modello model3{
+Il modello model3sull'episodio del 09-04-21 ha predetto 3 coppie su 8.
+Il modello model3 sull'episodio del 11-04-21 ha predetto 7 coppie su 8.
+Il modello model3 sull'episodio del 11-05-21 ha predetto 4 coppie su 8.
+Il modello model3 sull'episodio del 14-04-21 ha predetto 3 coppie su 8.
+Il modello model3 sull'episodio del 14-05-21 ha predetto 7 coppie su 8.
+Il modello model3 sull'episodio del 16-04-21 ha predetto 5 coppie su 8.
+Il modello model3 sull'episodio del 19-04-21 ha predetto 6 coppie su 8.
+Il modello model3 sull'episodio del 20-04-21 ha predetto 7 coppie su 8.
+Il modello model3 sull'episodio del 23-04-21 ha predetto 4 coppie su 8.
+Il modello model3 sull'episodio del 25-04-21 ha predetto 4 coppie su 8.
+Il modello model3 sull'episodio del 28-04-21 ha predetto 8 coppie su 8.
+Il modello model3 sull'episodio del 30-05-21 ha predetto 6 coppie su 8.
+Percentuale sulle 96 coppie totali: 66.66}
+
+Modello model4{
+Il modello model4 sull'episodio del 09-04-21 ha predetto 1 coppie su 8.
+Il modello model4 sull'episodio del 11-04-21 ha predetto 7 coppie su 8.
+Il modello model4 sull'episodio del 11-05-21 ha predetto 2 coppie su 8.
+Il modello model4 sull'episodio del 14-04-21 ha predetto 5 coppie su 8.
+Il modello model4 sull'episodio del 14-05-21 ha predetto 6 coppie su 8.
+Il modello model4 sull'episodio del 16-04-21 ha predetto 5 coppie su 8.
+Il modello model4 sull'episodio del 19-04-21 ha predetto 5 coppie su 8.
+Il modello model4 sull'episodio del 20-04-21 ha predetto 8 coppie su 8.
+Il modello model4 sull'episodio del 23-04-21 ha predetto 8 coppie su 8.
+Il modello model4 sull'episodio del 25-04-21 ha predetto 2 coppie su 8.
+Il modello model4 sull'episodio del 28-04-21 ha predetto 5 coppie su 8.
+Il modello model4 sull'episodio del 30-05-21 ha predetto 4 coppie su 8.
+Percentuale sulle 96 coppie totali: 60.41}
+
+Modello model5{
+Il modello model5 sull'episodio del 09-04-21 ha predetto 5 coppie su 8.
+Il modello model5 sull'episodio del 11-04-21 ha predetto 8 coppie su 8.
+Il modello model5 sull'episodio del 11-05-21 ha predetto 5 coppie su 8.
+Il modello model5 sull'episodio del 14-04-21 ha predetto 6 coppie su 8.
+Il modello model5 sull'episodio del 14-05-21 ha predetto 7 coppie su 8.
+Il modello model5 sull'episodio del 16-04-21 ha predetto 7 coppie su 8.
+Il modello model5 sull'episodio del 19-04-21 ha predetto 6 coppie su 8.
+Il modello model5 sull'episodio del 20-04-21 ha predetto 8 coppie su 8.
+Il modello model5 sull'episodio del 23-04-21 ha predetto 7 coppie su 8.
+Il modello model5 sull'episodio del 25-04-21 ha predetto 5 coppie su 8.
+Il modello model5 sull'episodio del 28-04-21 ha predetto 7 coppie su 8.
+Il modello model5 sull'episodio del 30-05-21 ha predetto 6 coppie su 8.
+Percentuale sulle 96 coppie totali: 80.20}
+
+Modello model6{
+Il modello model6 sull'episodio del 09-04-21 ha predetto 4 coppie su 8.
+Il modello model6 sull'episodio del 11-04-21 ha predetto 7 coppie su 8.
+Il modello model6 sull'episodio del 11-05-21 ha predetto 2 coppie su 8.
+Il modello model6 sull'episodio del 14-04-21 ha predetto 8 coppie su 8.
+Il modello model6 sull'episodio del 14-05-21 ha predetto 6 coppie su 8.
+Il modello model6 sull'episodio del 16-04-21 ha predetto 6 coppie su 8.
+Il modello model6 sull'episodio del 19-04-21 ha predetto 5 coppie su 8.
+Il modello model6 sull'episodio del 20-04-21 ha predetto 8 coppie su 8.
+Il modello model6 sull'episodio del 23-04-21 ha predetto 8 coppie su 8.
+Il modello model6 sull'episodio del 25-04-21 ha predetto 2 coppie su 8.
+Il modello model6 sull'episodio del 28-04-21 ha predetto 6 coppie su 8.
+Il modello model6 sull'episodio del 30-05-21 ha predetto 7 coppie su 8.
+Percentuale sulle 96 coppie totali: 71.87}
