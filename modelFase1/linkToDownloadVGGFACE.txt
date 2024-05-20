@@ -1,0 +1,3 @@
+https://drive.google.com/drive/folders/1rVs554rmrrVS1uD4V-5wFDFghSHcqO6g?usp=drive_link
+
+VGGFace trained for Kaggle 
