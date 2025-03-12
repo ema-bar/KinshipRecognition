@@ -51,7 +51,7 @@ Here a screenshot of the gui:
 ![gui1](https://github.com/ema-bar/KinshipRecognition/assets/53357066/63841892-74f9-4ccd-ac5d-a2a03883616a)
 
 
-You can see two drop-down menus, one to choose the bet and another to choose the mode. The possible modes are:
+You can see two drop-down menus, one to choose the episode and another to choose the mode. The possible modes are:
 
  •Comparison of the related couple: Where you can see the real related couple, in the screenshot below is the couple FS (FatherSon) (corner left)
 
